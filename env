@@ -1,0 +1,6 @@
+SUPABASE_URL = "https://jydakqxkyqhxnmluzsjc.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp5ZGFrcXhreXFoeG5tbHV6c2pjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQzMDcyMzksImV4cCI6MjA3OTg4MzIzOX0.fEFpvlht8QohbI1YKC5qKnfMyIQGwBcxv37ENgtxbO8"
+
+OPENAI_API_KEY="sk-3Hz0hDF3KEjjmgd7-N8nqA"
+OPENAI_BASE_URL="https://genailab.tcs.in" 
+OPENAI_MODEL_NAME="azure/genailab-maas-gpt-4o" 
