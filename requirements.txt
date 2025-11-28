@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-openai
+langchain-community
+langgraph
+supabase
+python-dotenv
+pypdf
+tiktoken
+plotly
